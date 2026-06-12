@@ -25,6 +25,13 @@ and cloud infrastructure.
 | [Attendance API](https://github.com/Venomreings61/Unify.STR.Attendance.API) | REST API with JWT Auth | .NET, Docker, PostgreSQL |
 | [Linux Scripts](https://github.com/Venomreings61/git-practice) | Automation & monitoring scripts | Bash, Linux |
 
+
+## 🏗️ Projects
+| Project | Description | Tech |
+|---------|-------------|------|
+| [TaskManager API](https://github.com/Venomreings61/TaskManager.API) | JWT-secured REST API with Docker | .NET 8, EF Core, PostgreSQL, Docker |
+| [Git Practice](https://github.com/Venomreings61/git-practice) | Git learning journey, PRs, branching | Git, GitHub |
+
 ## 📊 GitHub Stats
 ![Santo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Venomreings61&show_icons=true&theme=dark)
 
