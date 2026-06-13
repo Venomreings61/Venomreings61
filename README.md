@@ -27,10 +27,14 @@ and cloud infrastructure.
 
 
 ## 🏗️ Projects
+
 | Project | Description | Tech |
 |---------|-------------|------|
-| [TaskManager API](https://github.com/Venomreings61/TaskManager.API) | JWT-secured REST API with Docker | .NET 8, EF Core, PostgreSQL, Docker |
-| [Git Practice](https://github.com/Venomreings61/git-practice) | Git learning journey, PRs, branching | Git, GitHub |
+| [TaskManager API](https://github.com/Venomreings61/TaskManager.API) | JWT-secured REST API with pagination, validation, health checks & Docker | .NET 8, EF Core, PostgreSQL, Docker |
+| [Git Practice](https://github.com/Venomreings61/git-practice) | Git learning journey, PRs, branching, conflict resolution | Git, GitHub |
+
+## 🐳 Docker Hub
+[![Docker](https://img.shields.io/badge/Docker%20Hub-megalodon61-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/r/megalodon61/taskmanager-api)
 
 ## 📊 GitHub Stats
 ![Santo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Venomreings61&show_icons=true&theme=dark)
